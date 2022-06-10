@@ -1,0 +1,3 @@
+export const GET_FEEDS_SUCESS = "LOGIN_SUCESS";
+export const GET_FEEDS_ERROR = "LOGIN_ERROR";
+export const GET_FEEDS_LOADING = "LOGIN_LOADING";
